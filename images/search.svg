@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="274px" height="30px" viewBox="0 0 274 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="274" height="30" rx="2"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Актеры" transform="translate(-967.000000, -16.000000)">
+            <g id="Group-2" transform="translate(967.000000, 16.000000)">
+                <g id="Rectangle-9">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#000000" stroke-width="1" x="0.5" y="0.5" width="273" height="29" rx="2"></rect>
+                </g>
+                <g id="search" transform="translate(249.000000, 7.000000)" fill-rule="nonzero" fill="#000000">
+                    <path d="M15.7567305,15.4843064 L11.8124568,11.2762349 C12.8265989,10.0395675 13.3822533,8.4835867 13.3822533,6.86374329 C13.3822533,3.07913492 10.3805557,0 6.69112664,0 C3.0016976,0 0,3.07913492 0,6.86374329 C0,10.6483516 3.0016976,13.7274866 6.69112664,13.7274866 C8.07618986,13.7274866 9.39608732,13.2989503 10.5245604,12.4854475 L14.4987987,16.7254503 C14.6649132,16.9024155 14.8883386,17 15.1277646,17 C15.3543901,17 15.5693789,16.9113682 15.7325842,16.7502194 C16.0793592,16.4079275 16.0904141,15.8403258 15.7567305,15.4843064 Z M6.69112664,1.79054173 C9.41819713,1.79054173 11.636742,4.06632026 11.636742,6.86374329 C11.636742,9.66116631 9.41819713,11.9369448 6.69112664,11.9369448 C3.96405616,11.9369448 1.7455113,9.66116631 1.7455113,6.86374329 C1.7455113,4.06632026 3.96405616,1.79054173 6.69112664,1.79054173 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

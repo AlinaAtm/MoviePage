@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>volume-up-indicator</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Актеры" transform="translate(-311.000000, -550.000000)" fill-rule="nonzero" fill="#FFFFFF">
+            <g id="volume-up-indicator" transform="translate(311.000000, 550.000000)">
+                <path d="M0,6.58797327 L0,13.403118 L4.44444444,13.403118 L10,19.0824053 L10,0.908685969 L4.44444444,6.58797327 L0,6.58797327 Z M16.2222222,9.99554566 C16.2222222,7.95100223 14.6222222,6.24721604 12.2222222,5.45211581 L12.2222222,14.5389755 C14.6222222,13.7438753 16.2222222,12.0400891 16.2222222,9.99554566 Z M12.2222222,0 L12.2222222,2.38530067 C15.4444444,3.40757238 17.7777778,6.36075724 17.7777778,9.99554566 C17.7777778,13.6303341 15.4444444,16.5835189 12.2222222,17.6057906 L12.2222222,19.9910913 C16.6666667,18.9687751 20,14.8797327 20,9.99554566 C20,5.11135857 16.6666667,1.02222717 12.2222222,0 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
